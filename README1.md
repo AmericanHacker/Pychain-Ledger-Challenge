@@ -2,4 +2,4 @@
 PyChain Ledger
 
 
-![Screenshot](images/Screenshot_python_ledger)
+![Screenshot](Images/Screenshot_python_ledger)
